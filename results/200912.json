@@ -1,0 +1,3061 @@
+[
+  {
+    "matchName": "王座戦 一次予選",
+    "beginDate": "2009/12/01",
+    "endDate": "2009/12/01",
+    "firstPlayer": {
+      "id": "pro/250",
+      "name": "佐藤和俊",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/252",
+      "name": "中村亮介",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "棋聖戦 二次予選",
+    "beginDate": "2009/12/01",
+    "endDate": "2009/12/01",
+    "firstPlayer": {
+      "id": "pro/262",
+      "name": "戸辺誠",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/211",
+      "name": "北浜健介",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "棋聖戦 二次予選",
+    "beginDate": "2009/12/01",
+    "endDate": "2009/12/01",
+    "firstPlayer": {
+      "id": "pro/185",
+      "name": "先崎学",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/189",
+      "name": "屋敷伸之",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "棋聖戦 二次予選",
+    "beginDate": "2009/12/01",
+    "endDate": "2009/12/01",
+    "firstPlayer": {
+      "id": "pro/233",
+      "name": "阿久津主税",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/231",
+      "name": "松尾歩",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "棋聖戦 二次予選",
+    "beginDate": "2009/12/01",
+    "endDate": "2009/12/01",
+    "firstPlayer": {
+      "id": "pro/194",
+      "name": "丸山忠久",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/161",
+      "name": "森下卓",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王将戦 挑決リーグ",
+    "beginDate": "2009/12/01",
+    "endDate": "2009/12/01",
+    "firstPlayer": {
+      "id": "pro/235",
+      "name": "渡辺明",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/182",
+      "name": "佐藤康光",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王将戦 挑決リーグ",
+    "beginDate": "2009/12/01",
+    "endDate": "2009/12/01",
+    "firstPlayer": {
+      "id": "pro/207",
+      "name": "久保利明",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/201",
+      "name": "深浦康市",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王将戦 挑決リーグ",
+    "beginDate": "2009/12/01",
+    "endDate": "2009/12/01",
+    "firstPlayer": {
+      "id": "pro/204",
+      "name": "三浦弘行",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/264",
+      "name": "豊島将之",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "女流王位戦 予選",
+    "beginDate": "2009/12/01",
+    "endDate": "2009/12/01",
+    "firstPlayer": {
+      "id": "lady/19",
+      "name": "竹部さゆり",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/5",
+      "name": "長沢千和子",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2009/12/02",
+    "endDate": "2009/12/02",
+    "firstPlayer": {
+      "id": "pro/113",
+      "name": "淡路仁茂",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/254",
+      "name": "阪口悟",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王座戦 二次予選",
+    "beginDate": "2009/12/02",
+    "endDate": "2009/12/02",
+    "firstPlayer": {
+      "id": "pro/192",
+      "name": "畠山鎮",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/131",
+      "name": "谷川浩司",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "女流名人位戦A級",
+    "beginDate": "2009/12/02",
+    "endDate": "2009/12/02",
+    "firstPlayer": {
+      "id": "lady/16",
+      "name": "矢内理絵子",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "中井広恵※",
+      "result": "win"
+    },
+    "note": "中継 http://hochi.yomiuri.co.jp/contents/leisure/shogi/index.htm"
+  },
+  {
+    "matchName": "女流名人位戦A級",
+    "beginDate": "2009/12/02",
+    "endDate": "2009/12/02",
+    "firstPlayer": {
+      "id": "lady/33",
+      "name": "里見香奈",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/9",
+      "name": "斎田晴子",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "女流名人位戦A級",
+    "beginDate": "2009/12/02",
+    "endDate": "2009/12/02",
+    "firstPlayer": {
+      "id": "lady/17",
+      "name": "千葉涼子",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/14",
+      "name": "本田小百合",
+      "result": "win"
+    },
+    "note": "中継 http://hochi.yomiuri.co.jp/contents/leisure/shogi/index.htm"
+  },
+  {
+    "matchName": "女流名人位戦A級",
+    "beginDate": "2009/12/02",
+    "endDate": "2009/12/02",
+    "firstPlayer": {
+      "id": "lady/32",
+      "name": "岩根忍",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/21",
+      "name": "甲斐智美",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "女流名人位戦A級",
+    "beginDate": "2009/12/02",
+    "endDate": "2009/12/02",
+    "firstPlayer": {
+      "id": "lady/20",
+      "name": "早水千紗",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/34",
+      "name": "井道千尋",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "女流名人位戦B級",
+    "beginDate": "2009/12/02",
+    "endDate": "2009/12/02",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "島井咲緒里※",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "石橋幸緒※",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "女流名人位戦B級",
+    "beginDate": "2009/12/02",
+    "endDate": "2009/12/02",
+    "firstPlayer": {
+      "id": "lady/26",
+      "name": "上田初美",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/39",
+      "name": "山口恵梨子",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "女流名人位戦B級",
+    "beginDate": "2009/12/02",
+    "endDate": "2009/12/02",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "中倉宏美※",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/35",
+      "name": "室田伊緒",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "女流名人位戦B級",
+    "beginDate": "2009/12/02",
+    "endDate": "2009/12/02",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "松尾香織※",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/31",
+      "name": "貞升南",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "女流名人位戦B級",
+    "beginDate": "2009/12/02",
+    "endDate": "2009/12/02",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "北尾まどか*",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/38",
+      "name": "中村桃子",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦4組",
+    "beginDate": "2009/12/03",
+    "endDate": "2009/12/03",
+    "firstPlayer": {
+      "id": "pro/246",
+      "name": "横山泰明",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/164",
+      "name": "日浦市郎",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王座戦 一次予選",
+    "beginDate": "2009/12/03",
+    "endDate": "2009/12/03",
+    "firstPlayer": {
+      "id": "pro/237",
+      "name": "千葉幸生",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/202",
+      "name": "真田圭一",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王座戦 一次予選",
+    "beginDate": "2009/12/03",
+    "endDate": "2009/12/03",
+    "firstPlayer": {
+      "id": "pro/255",
+      "name": "広瀬章人",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/167",
+      "name": "小林宏",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王座戦 二次予選",
+    "beginDate": "2009/12/03",
+    "endDate": "2009/12/03",
+    "firstPlayer": {
+      "id": "pro/114",
+      "name": "青野照市",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/124",
+      "name": "土佐浩司",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "棋聖戦 二次予選",
+    "beginDate": "2009/12/03",
+    "endDate": "2009/12/03",
+    "firstPlayer": {
+      "id": "pro/148",
+      "name": "塚田泰明",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/203",
+      "name": "飯塚祐紀",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "女流王位戦 予選",
+    "beginDate": "2009/12/03",
+    "endDate": "2009/12/03",
+    "firstPlayer": {
+      "id": "lady/5",
+      "name": "長沢千和子",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/32",
+      "name": "岩根忍",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "銀河戦 Cブロック",
+    "beginDate": "2009/12/03",
+    "endDate": "2009/12/03",
+    "firstPlayer": {
+      "id": "pro/269",
+      "name": "稲葉陽",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/244",
+      "name": "熊坂学",
+      "result": "unknown"
+    },
+    "note": "詳細情報 https://www.shogi.or.jp/match/ginga/"
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2009/12/04",
+    "endDate": "2009/12/04",
+    "firstPlayer": {
+      "id": "pro/231",
+      "name": "松尾歩",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/208",
+      "name": "行方尚史",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2009/12/04",
+    "endDate": "2009/12/04",
+    "firstPlayer": {
+      "id": "pro/142",
+      "name": "高橋道雄",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/210",
+      "name": "窪田義行",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王座戦 一次予選",
+    "beginDate": "2009/12/04",
+    "endDate": "2009/12/04",
+    "firstPlayer": {
+      "id": "pro/249",
+      "name": "村山慈明",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/253",
+      "name": "村中秀史",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王座戦 二次予選",
+    "beginDate": "2009/12/04",
+    "endDate": "2009/12/04",
+    "firstPlayer": {
+      "id": "pro/222",
+      "name": "木村一基",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/241",
+      "name": "宮田敦史",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "棋王戦 挑決トーナメント",
+    "beginDate": "2009/12/04",
+    "endDate": "2009/12/04",
+    "firstPlayer": {
+      "id": "pro/182",
+      "name": "佐藤康光",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/197",
+      "name": "杉本昌隆",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "棋聖戦 二次予選",
+    "beginDate": "2009/12/04",
+    "endDate": "2009/12/04",
+    "firstPlayer": {
+      "id": "pro/204",
+      "name": "三浦弘行",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/198",
+      "name": "藤井猛",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "新人王戦",
+    "beginDate": "2009/12/04",
+    "endDate": "2009/12/04",
+    "firstPlayer": {
+      "id": "pro/268",
+      "name": "及川拓馬",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/257",
+      "name": "高崎一生",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "銀河戦 Dブロック",
+    "beginDate": "2009/12/05",
+    "endDate": "2009/12/05",
+    "firstPlayer": {
+      "id": "pro/252",
+      "name": "中村亮介",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/190",
+      "name": "藤原直哉",
+      "result": "unknown"
+    },
+    "note": "詳細情報 https://www.shogi.or.jp/match/ginga/"
+  },
+  {
+    "matchName": "女流最強戦",
+    "beginDate": "2009/12/06",
+    "endDate": "2009/12/06",
+    "firstPlayer": {
+      "id": "lady/7",
+      "name": "清水市代",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/30",
+      "name": "中村真梨花",
+      "result": "win"
+    },
+    "note": "中継 http://www.daiwashogi.net/"
+  },
+  {
+    "matchName": "NHK杯",
+    "beginDate": "2009/12/06",
+    "endDate": "2009/12/06",
+    "firstPlayer": {
+      "id": "pro/201",
+      "name": "深浦康市",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/233",
+      "name": "阿久津主税",
+      "result": "unknown"
+    },
+    "note": "詳細情報 https://www.shogi.or.jp/match/nhk/"
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/07",
+    "endDate": "2009/12/07",
+    "firstPlayer": {
+      "id": "pro/112",
+      "name": "小阪昇",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/126",
+      "name": "森信雄",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王将戦 挑決リーグ",
+    "beginDate": "2009/12/07",
+    "endDate": "2009/12/07",
+    "firstPlayer": {
+      "id": "pro/201",
+      "name": "深浦康市",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/235",
+      "name": "渡辺明",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王将戦 挑決リーグ",
+    "beginDate": "2009/12/07",
+    "endDate": "2009/12/07",
+    "firstPlayer": {
+      "id": "pro/183",
+      "name": "森内俊之",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/207",
+      "name": "久保利明",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王将戦 挑決リーグ",
+    "beginDate": "2009/12/07",
+    "endDate": "2009/12/07",
+    "firstPlayer": {
+      "id": "pro/182",
+      "name": "佐藤康光",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/204",
+      "name": "三浦弘行",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "女流名人位戦A級 プレーオフ",
+    "beginDate": "2009/12/07",
+    "endDate": "2009/12/07",
+    "firstPlayer": {
+      "id": "lady/17",
+      "name": "千葉涼子",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/32",
+      "name": "岩根忍",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/244",
+      "name": "熊坂学",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "加来博洋アマ",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/188",
+      "name": "小倉久史",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/265",
+      "name": "金井恒太",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/238",
+      "name": "上野裕和",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/212",
+      "name": "矢倉規広",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/267",
+      "name": "村田顕弘",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/250",
+      "name": "佐藤和俊",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/260",
+      "name": "糸谷哲郎",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/248",
+      "name": "西尾明",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/261",
+      "name": "中村太地",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/242",
+      "name": "村田智弘",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/263",
+      "name": "佐藤天彦",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/258",
+      "name": "遠山雄亮",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/86",
+      "name": "大内延介",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/224",
+      "name": "佐藤紳哉",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/153",
+      "name": "室岡克彦",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/216",
+      "name": "松本佳介",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/252",
+      "name": "中村亮介",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/245",
+      "name": "藤倉勇樹",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/270",
+      "name": "田中悠一",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/268",
+      "name": "及川拓馬",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/172",
+      "name": "所司和晴",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/167",
+      "name": "小林宏",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/271",
+      "name": "佐藤慎一",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/141",
+      "name": "児玉孝一",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/209",
+      "name": "岡崎洋",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/229",
+      "name": "山本真也",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/253",
+      "name": "村中秀史",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/269",
+      "name": "稲葉陽",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/256",
+      "name": "長岡裕也",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/264",
+      "name": "豊島将之",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/257",
+      "name": "高崎一生",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/247",
+      "name": "島本亮",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/219",
+      "name": "中座真",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/228",
+      "name": "伊奈祐介",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/254",
+      "name": "阪口悟",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/246",
+      "name": "横山泰明",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/274",
+      "name": "澤田真吾",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/113",
+      "name": "淡路仁茂",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/206",
+      "name": "川上猛",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/275",
+      "name": "大石直嗣",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/272",
+      "name": "西川和宏",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/66",
+      "name": "有吉道夫",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/225",
+      "name": "増田裕司",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/190",
+      "name": "藤原直哉",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "棋王戦 敗者復活戦",
+    "beginDate": "2009/12/08",
+    "endDate": "2009/12/08",
+    "firstPlayer": {
+      "id": "pro/239",
+      "name": "橋本崇載",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/227",
+      "name": "山崎隆之",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/09",
+    "endDate": "2009/12/09",
+    "firstPlayer": {
+      "id": "pro/101",
+      "name": "滝誠一郎",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/130",
+      "name": "大島映二",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/09",
+    "endDate": "2009/12/09",
+    "firstPlayer": {
+      "id": "pro/118",
+      "name": "伊藤果",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/177",
+      "name": "石川陽生",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/09",
+    "endDate": "2009/12/09",
+    "firstPlayer": {
+      "id": "pro/259",
+      "name": "瀬川晶司",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/16",
+      "name": "矢内理絵子",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦3組",
+    "beginDate": "2009/12/10",
+    "endDate": "2009/12/10",
+    "firstPlayer": {
+      "id": "pro/192",
+      "name": "畠山鎮",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/123",
+      "name": "小林健二",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦4組",
+    "beginDate": "2009/12/10",
+    "endDate": "2009/12/10",
+    "firstPlayer": {
+      "id": "pro/215",
+      "name": "勝又清和",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/218",
+      "name": "堀口一史座",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦5組",
+    "beginDate": "2009/12/10",
+    "endDate": "2009/12/10",
+    "firstPlayer": {
+      "id": "pro/255",
+      "name": "広瀬章人",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/241",
+      "name": "宮田敦史",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/10",
+    "endDate": "2009/12/10",
+    "firstPlayer": {
+      "id": "pro/145",
+      "name": "依田有司",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/174",
+      "name": "安西勝一",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "順位戦A級",
+    "beginDate": "2009/12/10",
+    "endDate": "2009/12/10",
+    "firstPlayer": {
+      "id": "pro/131",
+      "name": "谷川浩司",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/157",
+      "name": "井上慶太",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "女流名人位戦A級 プレーオフ",
+    "beginDate": "2009/12/10",
+    "endDate": "2009/12/10",
+    "firstPlayer": {
+      "id": "lady/32",
+      "name": "岩根忍",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/33",
+      "name": "里見香奈",
+      "result": "win"
+    },
+    "note": "中継 http://hochi.yomiuri.co.jp/contents/leisure/shogi/index.htm"
+  },
+  {
+    "matchName": "銀河戦 Eブロック",
+    "beginDate": "2009/12/10",
+    "endDate": "2009/12/10",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "中川慧梧アマ",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/258",
+      "name": "遠山雄亮",
+      "result": "unknown"
+    },
+    "note": "詳細情報 https://www.shogi.or.jp/match/ginga/"
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/11",
+    "endDate": "2009/12/11",
+    "firstPlayer": {
+      "id": "lady/7",
+      "name": "清水市代",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/271",
+      "name": "佐藤慎一",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/11",
+    "endDate": "2009/12/11",
+    "firstPlayer": {
+      "id": "pro/237",
+      "name": "千葉幸生",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/181",
+      "name": "櫛田陽一",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "順位戦A級",
+    "beginDate": "2009/12/11",
+    "endDate": "2009/12/11",
+    "firstPlayer": {
+      "id": "pro/194",
+      "name": "丸山忠久",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/142",
+      "name": "高橋道雄",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2009/12/11",
+    "endDate": "2009/12/11",
+    "firstPlayer": {
+      "id": "pro/147",
+      "name": "南芳一",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/127",
+      "name": "田中寅彦",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2009/12/11",
+    "endDate": "2009/12/11",
+    "firstPlayer": {
+      "id": "pro/239",
+      "name": "橋本崇載",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/146",
+      "name": "島朗",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2009/12/11",
+    "endDate": "2009/12/11",
+    "firstPlayer": {
+      "id": "pro/114",
+      "name": "青野照市",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/185",
+      "name": "先崎学",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2009/12/11",
+    "endDate": "2009/12/11",
+    "firstPlayer": {
+      "id": "pro/203",
+      "name": "飯塚祐紀",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/143",
+      "name": "中村修",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2009/12/11",
+    "endDate": "2009/12/11",
+    "firstPlayer": {
+      "id": "pro/210",
+      "name": "窪田義行",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/196",
+      "name": "佐藤秀司",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2009/12/11",
+    "endDate": "2009/12/11",
+    "firstPlayer": {
+      "id": "pro/173",
+      "name": "中田宏樹",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/100",
+      "name": "森けい二",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2009/12/11",
+    "endDate": "2009/12/11",
+    "firstPlayer": {
+      "id": "pro/233",
+      "name": "阿久津主税",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/149",
+      "name": "神谷広志",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2009/12/11",
+    "endDate": "2009/12/11",
+    "firstPlayer": {
+      "id": "pro/144",
+      "name": "泉正樹",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/184",
+      "name": "中川大輔",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2009/12/11",
+    "endDate": "2009/12/11",
+    "firstPlayer": {
+      "id": "pro/221",
+      "name": "野月浩貴",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/124",
+      "name": "土佐浩司",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2009/12/11",
+    "endDate": "2009/12/11",
+    "firstPlayer": {
+      "id": "pro/211",
+      "name": "北浜健介",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/193",
+      "name": "畠山成幸",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2009/12/11",
+    "endDate": "2009/12/11",
+    "firstPlayer": {
+      "id": "pro/234",
+      "name": "安用寺孝功",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/161",
+      "name": "森下卓",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2009/12/11",
+    "endDate": "2009/12/11",
+    "firstPlayer": {
+      "id": "pro/77",
+      "name": "内藤國雄",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/93",
+      "name": "桐山清澄",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2009/12/11",
+    "endDate": "2009/12/11",
+    "firstPlayer": {
+      "id": "pro/275",
+      "name": "大石直嗣",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/227",
+      "name": "山崎隆之",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "女流最強戦 指し継ぎ",
+    "beginDate": "2009/12/11",
+    "endDate": "2009/12/11",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "石橋幸緒※",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/29",
+      "name": "鈴木環那",
+      "result": "win"
+    },
+    "note": "中継 http://www.daiwashogi.net/"
+  },
+  {
+    "matchName": "銀河戦 Fブロック",
+    "beginDate": "2009/12/12",
+    "endDate": "2009/12/12",
+    "firstPlayer": {
+      "id": "pro/229",
+      "name": "山本真也",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/160",
+      "name": "神吉宏充",
+      "result": "unknown"
+    },
+    "note": "詳細情報 https://www.shogi.or.jp/match/ginga/"
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/13",
+    "endDate": "2009/12/13",
+    "firstPlayer": {
+      "id": "pro/275",
+      "name": "大石直嗣",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "古屋アマ",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "女流最強戦",
+    "beginDate": "2009/12/13",
+    "endDate": "2009/12/13",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "中井広恵※",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/35",
+      "name": "室田伊緒",
+      "result": "lose"
+    },
+    "note": "中継 http://www.daiwashogi.net/"
+  },
+  {
+    "matchName": "NHK杯",
+    "beginDate": "2009/12/13",
+    "endDate": "2009/12/13",
+    "firstPlayer": {
+      "id": "pro/198",
+      "name": "藤井猛",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/194",
+      "name": "丸山忠久",
+      "result": "unknown"
+    },
+    "note": "詳細情報 https://www.shogi.or.jp/match/nhk/"
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2009/12/14",
+    "endDate": "2009/12/14",
+    "firstPlayer": {
+      "id": "pro/131",
+      "name": "谷川浩司",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/235",
+      "name": "渡辺明",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦4組",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/196",
+      "name": "佐藤秀司",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/223",
+      "name": "小林裕士",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦5組",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/216",
+      "name": "松本佳介",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/86",
+      "name": "大内延介",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦5組",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/66",
+      "name": "有吉道夫",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/268",
+      "name": "及川拓馬",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/255",
+      "name": "広瀬章人",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/202",
+      "name": "真田圭一",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/236",
+      "name": "飯島栄治",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/164",
+      "name": "日浦市郎",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/226",
+      "name": "高野秀行",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/148",
+      "name": "塚田泰明",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/240",
+      "name": "佐々木慎",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/249",
+      "name": "村山慈明",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組 ・千日手",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/262",
+      "name": "戸辺誠",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/241",
+      "name": "宮田敦史",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/178",
+      "name": "長沼洋",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/251",
+      "name": "片上大輔",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/220",
+      "name": "近藤正和",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/217",
+      "name": "田村康介",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/176",
+      "name": "中田功",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/177",
+      "name": "石川陽生",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/162",
+      "name": "浦野真彦",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/243",
+      "name": "大平武洋",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/104",
+      "name": "田中魁秀",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/64",
+      "name": "加藤一二三",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/123",
+      "name": "小林健二",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/237",
+      "name": "千葉幸生",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/199",
+      "name": "平藤真吾",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/168",
+      "name": "富岡英作",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/138",
+      "name": "脇謙二",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/151",
+      "name": "西川慶二",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/135",
+      "name": "福崎文吾",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/214",
+      "name": "北島忠雄",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/179",
+      "name": "神崎健二",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/215",
+      "name": "勝又清和",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/167",
+      "name": "小林宏",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/259",
+      "name": "瀬川晶司",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "棋王戦 敗者復活戦",
+    "beginDate": "2009/12/15",
+    "endDate": "2009/12/15",
+    "firstPlayer": {
+      "id": "pro/227",
+      "name": "山崎隆之",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/197",
+      "name": "杉本昌隆",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦4組",
+    "beginDate": "2009/12/16",
+    "endDate": "2009/12/16",
+    "firstPlayer": {
+      "id": "pro/209",
+      "name": "岡崎洋",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/250",
+      "name": "佐藤和俊",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦5組",
+    "beginDate": "2009/12/16",
+    "endDate": "2009/12/16",
+    "firstPlayer": {
+      "id": "pro/245",
+      "name": "藤倉勇樹",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/257",
+      "name": "高崎一生",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦5組",
+    "beginDate": "2009/12/16",
+    "endDate": "2009/12/16",
+    "firstPlayer": {
+      "id": "pro/97",
+      "name": "石田和雄",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/256",
+      "name": "長岡裕也",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/16",
+    "endDate": "2009/12/16",
+    "firstPlayer": {
+      "id": "pro/205",
+      "name": "伊藤能",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/152",
+      "name": "武市三郎",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/16",
+    "endDate": "2009/12/16",
+    "firstPlayer": {
+      "id": "pro/265",
+      "name": "金井恒太",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/109",
+      "name": "田丸昇",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/16",
+    "endDate": "2009/12/16",
+    "firstPlayer": {
+      "id": "pro/141",
+      "name": "児玉孝一",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/190",
+      "name": "藤原直哉",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "順位戦A級",
+    "beginDate": "2009/12/16",
+    "endDate": "2009/12/16",
+    "firstPlayer": {
+      "id": "pro/183",
+      "name": "森内俊之",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/195",
+      "name": "郷田真隆",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "マイナビ女子オープン 本戦",
+    "beginDate": "2009/12/16",
+    "endDate": "2009/12/16",
+    "firstPlayer": {
+      "id": "lady/21",
+      "name": "甲斐智美",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/5",
+      "name": "長沢千和子",
+      "result": "lose"
+    },
+    "note": "中継 http://mynavi-open.jp/"
+  },
+  {
+    "matchName": "女流王位戦 挑決リーグ",
+    "beginDate": "2009/12/16",
+    "endDate": "2009/12/16",
+    "firstPlayer": {
+      "id": "lady/30",
+      "name": "中村真梨花",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/20",
+      "name": "早水千紗",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦4組",
+    "beginDate": "2009/12/17",
+    "endDate": "2009/12/17",
+    "firstPlayer": {
+      "id": "pro/193",
+      "name": "畠山成幸",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/229",
+      "name": "山本真也",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦5組",
+    "beginDate": "2009/12/17",
+    "endDate": "2009/12/17",
+    "firstPlayer": {
+      "id": "pro/269",
+      "name": "稲葉陽",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/234",
+      "name": "安用寺孝功",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦5組",
+    "beginDate": "2009/12/17",
+    "endDate": "2009/12/17",
+    "firstPlayer": {
+      "id": "pro/154",
+      "name": "堀口弘治",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/270",
+      "name": "田中悠一",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/17",
+    "endDate": "2009/12/17",
+    "firstPlayer": {
+      "id": "pro/137",
+      "name": "武者野勝巳",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/150",
+      "name": "植山悦行",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/17",
+    "endDate": "2009/12/17",
+    "firstPlayer": {
+      "id": "pro/266",
+      "name": "伊藤真吾",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/238",
+      "name": "上野裕和",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "順位戦A級",
+    "beginDate": "2009/12/17",
+    "endDate": "2009/12/17",
+    "firstPlayer": {
+      "id": "pro/198",
+      "name": "藤井猛",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/204",
+      "name": "三浦弘行",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "王座戦 二次予選",
+    "beginDate": "2009/12/17",
+    "endDate": "2009/12/17",
+    "firstPlayer": {
+      "id": "pro/149",
+      "name": "神谷広志",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/239",
+      "name": "橋本崇載",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王座戦 一次予選",
+    "beginDate": "2009/12/17",
+    "endDate": "2009/12/17",
+    "firstPlayer": {
+      "id": "pro/264",
+      "name": "豊島将之",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/260",
+      "name": "糸谷哲郎",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "棋聖戦 二次予選",
+    "beginDate": "2009/12/17",
+    "endDate": "2009/12/17",
+    "firstPlayer": {
+      "id": "pro/263",
+      "name": "佐藤天彦",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/194",
+      "name": "丸山忠久",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "女流王位戦 挑決リーグ",
+    "beginDate": "2009/12/17",
+    "endDate": "2009/12/17",
+    "firstPlayer": {
+      "id": "lady/32",
+      "name": "岩根忍",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "船戸陽子※",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "女流王位戦 挑決リーグ",
+    "beginDate": "2009/12/17",
+    "endDate": "2009/12/17",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "石橋幸緒※",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "中井広恵※",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "銀河戦 Gブロック",
+    "beginDate": "2009/12/17",
+    "endDate": "2009/12/17",
+    "firstPlayer": {
+      "id": "pro/274",
+      "name": "澤田真吾",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/153",
+      "name": "室岡克彦",
+      "result": "unknown"
+    },
+    "note": "詳細情報 https://www.shogi.or.jp/match/ginga/"
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/18",
+    "endDate": "2009/12/18",
+    "firstPlayer": {
+      "id": "pro/172",
+      "name": "所司和晴",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/176",
+      "name": "中田功",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/18",
+    "endDate": "2009/12/18",
+    "firstPlayer": {
+      "id": "pro/166",
+      "name": "伊藤博文",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/186",
+      "name": "野田敬三",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "順位戦A級",
+    "beginDate": "2009/12/18",
+    "endDate": "2009/12/18",
+    "firstPlayer": {
+      "id": "pro/222",
+      "name": "木村一基",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/182",
+      "name": "佐藤康光",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級1組",
+    "beginDate": "2009/12/18",
+    "endDate": "2009/12/18",
+    "firstPlayer": {
+      "id": "pro/213",
+      "name": "鈴木大介",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/208",
+      "name": "行方尚史",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級1組",
+    "beginDate": "2009/12/18",
+    "endDate": "2009/12/18",
+    "firstPlayer": {
+      "id": "pro/197",
+      "name": "杉本昌隆",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/201",
+      "name": "深浦康市",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級1組",
+    "beginDate": "2009/12/18",
+    "endDate": "2009/12/18",
+    "firstPlayer": {
+      "id": "pro/231",
+      "name": "松尾歩",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/235",
+      "name": "渡辺明",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級1組",
+    "beginDate": "2009/12/18",
+    "endDate": "2009/12/18",
+    "firstPlayer": {
+      "id": "pro/200",
+      "name": "豊川孝弘",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/192",
+      "name": "畠山鎮",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級1組",
+    "beginDate": "2009/12/18",
+    "endDate": "2009/12/18",
+    "firstPlayer": {
+      "id": "pro/227",
+      "name": "山崎隆之",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/218",
+      "name": "堀口一史座",
+      "result": "lose"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級1組",
+    "beginDate": "2009/12/18",
+    "endDate": "2009/12/18",
+    "firstPlayer": {
+      "id": "pro/189",
+      "name": "屋敷伸之",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/207",
+      "name": "久保利明",
+      "result": "win"
+    },
+    "note": "有料中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "王座戦 二次予選",
+    "beginDate": "2009/12/18",
+    "endDate": "2009/12/18",
+    "firstPlayer": {
+      "id": "pro/171",
+      "name": "阿部隆",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/254",
+      "name": "阪口悟",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "女流王位戦 挑決リーグ",
+    "beginDate": "2009/12/18",
+    "endDate": "2009/12/18",
+    "firstPlayer": {
+      "id": "lady/28",
+      "name": "村田智穂",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/31",
+      "name": "貞升南",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "銀河戦 Hブロック",
+    "beginDate": "2009/12/19",
+    "endDate": "2009/12/19",
+    "firstPlayer": {
+      "id": "pro/155",
+      "name": "大野八一雄",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/228",
+      "name": "伊奈祐介",
+      "result": "unknown"
+    },
+    "note": "詳細情報 https://www.shogi.or.jp/match/ginga/"
+  },
+  {
+    "matchName": "女流最強戦",
+    "beginDate": "2009/12/20",
+    "endDate": "2009/12/20",
+    "firstPlayer": {
+      "id": "lady/32",
+      "name": "岩根忍",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/9",
+      "name": "斎田晴子",
+      "result": "win"
+    },
+    "note": "中継 http://www.daiwashogi.net/"
+  },
+  {
+    "matchName": "NHK杯",
+    "beginDate": "2009/12/20",
+    "endDate": "2009/12/20",
+    "firstPlayer": {
+      "id": "pro/183",
+      "name": "森内俊之",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/218",
+      "name": "堀口一史座",
+      "result": "unknown"
+    },
+    "note": "詳細情報 https://www.shogi.or.jp/match/nhk/"
+  },
+  {
+    "matchName": "竜王戦4組",
+    "beginDate": "2009/12/21",
+    "endDate": "2009/12/21",
+    "firstPlayer": {
+      "id": "pro/77",
+      "name": "内藤國雄",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/178",
+      "name": "長沼洋",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦4組",
+    "beginDate": "2009/12/21",
+    "endDate": "2009/12/21",
+    "firstPlayer": {
+      "id": "pro/199",
+      "name": "平藤真吾",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/242",
+      "name": "村田智弘",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦5組",
+    "beginDate": "2009/12/21",
+    "endDate": "2009/12/21",
+    "firstPlayer": {
+      "id": "pro/113",
+      "name": "淡路仁茂",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/151",
+      "name": "西川慶二",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/21",
+    "endDate": "2009/12/21",
+    "firstPlayer": {
+      "id": "pro/232",
+      "name": "金沢孝史",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/261",
+      "name": "中村太地",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2009/12/21",
+    "endDate": "2009/12/21",
+    "firstPlayer": {
+      "id": "pro/246",
+      "name": "横山泰明",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/255",
+      "name": "広瀬章人",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王座戦 二次予選",
+    "beginDate": "2009/12/21",
+    "endDate": "2009/12/21",
+    "firstPlayer": {
+      "id": "pro/183",
+      "name": "森内俊之",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/161",
+      "name": "森下卓",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦4組",
+    "beginDate": "2009/12/22",
+    "endDate": "2009/12/22",
+    "firstPlayer": {
+      "id": "pro/253",
+      "name": "村中秀史",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/206",
+      "name": "川上猛",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦4組",
+    "beginDate": "2009/12/22",
+    "endDate": "2009/12/22",
+    "firstPlayer": {
+      "id": "pro/240",
+      "name": "佐々木慎",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/220",
+      "name": "近藤正和",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦4組",
+    "beginDate": "2009/12/22",
+    "endDate": "2009/12/22",
+    "firstPlayer": {
+      "id": "pro/138",
+      "name": "脇謙二",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/135",
+      "name": "福崎文吾",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦5組",
+    "beginDate": "2009/12/22",
+    "endDate": "2009/12/22",
+    "firstPlayer": {
+      "id": "pro/188",
+      "name": "小倉久史",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/144",
+      "name": "泉正樹",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/22",
+    "endDate": "2009/12/22",
+    "firstPlayer": {
+      "id": "pro/132",
+      "name": "松浦隆一",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/110",
+      "name": "宮田利男",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/22",
+    "endDate": "2009/12/22",
+    "firstPlayer": {
+      "id": "pro/104",
+      "name": "田中魁秀",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/106",
+      "name": "佐藤義則",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2009/12/22",
+    "endDate": "2009/12/22",
+    "firstPlayer": {
+      "id": "pro/194",
+      "name": "丸山忠久",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/259",
+      "name": "瀬川晶司",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2009/12/22",
+    "endDate": "2009/12/22",
+    "firstPlayer": {
+      "id": "pro/256",
+      "name": "長岡裕也",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/248",
+      "name": "西尾明",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2009/12/22",
+    "endDate": "2009/12/22",
+    "firstPlayer": {
+      "id": "pro/254",
+      "name": "阪口悟",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/204",
+      "name": "三浦弘行",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王座戦 二次予選",
+    "beginDate": "2009/12/22",
+    "endDate": "2009/12/22",
+    "firstPlayer": {
+      "id": "pro/93",
+      "name": "桐山清澄",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/179",
+      "name": "神崎健二",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "棋王戦 挑戦者決定戦",
+    "beginDate": "2009/12/22",
+    "endDate": "2009/12/22",
+    "firstPlayer": {
+      "id": "pro/182",
+      "name": "佐藤康光",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/227",
+      "name": "山崎隆之",
+      "result": "lose"
+    },
+    "note": "中継 http://live.shogi.or.jp/kiou/"
+  },
+  {
+    "matchName": "新人王戦",
+    "beginDate": "2009/12/22",
+    "endDate": "2009/12/22",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "加来博洋アマ",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "菊地裕太三段",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "新人王戦",
+    "beginDate": "2009/12/22",
+    "endDate": "2009/12/22",
+    "firstPlayer": {
+      "id": "pro/275",
+      "name": "大石直嗣",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/269",
+      "name": "稲葉陽",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦2組",
+    "beginDate": "2009/12/24",
+    "endDate": "2009/12/24",
+    "firstPlayer": {
+      "id": "pro/202",
+      "name": "真田圭一",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/224",
+      "name": "佐藤紳哉",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦4組",
+    "beginDate": "2009/12/24",
+    "endDate": "2009/12/24",
+    "firstPlayer": {
+      "id": "pro/249",
+      "name": "村山慈明",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/252",
+      "name": "中村亮介",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦4組",
+    "beginDate": "2009/12/24",
+    "endDate": "2009/12/24",
+    "firstPlayer": {
+      "id": "pro/264",
+      "name": "豊島将之",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/147",
+      "name": "南芳一",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦5組",
+    "beginDate": "2009/12/24",
+    "endDate": "2009/12/24",
+    "firstPlayer": {
+      "id": "pro/128",
+      "name": "東和男",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/162",
+      "name": "浦野真彦",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/24",
+    "endDate": "2009/12/24",
+    "firstPlayer": {
+      "id": "lady/33",
+      "name": "里見香奈",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/247",
+      "name": "島本亮",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2009/12/24",
+    "endDate": "2009/12/24",
+    "firstPlayer": {
+      "id": "pro/262",
+      "name": "戸辺誠",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/207",
+      "name": "久保利明",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2009/12/24",
+    "endDate": "2009/12/24",
+    "firstPlayer": {
+      "id": "pro/257",
+      "name": "高崎一生",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/210",
+      "name": "窪田義行",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王座戦 二次予選",
+    "beginDate": "2009/12/24",
+    "endDate": "2009/12/24",
+    "firstPlayer": {
+      "id": "pro/177",
+      "name": "石川陽生",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/231",
+      "name": "松尾歩",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 本戦",
+    "beginDate": "2009/12/24",
+    "endDate": "2009/12/24",
+    "firstPlayer": {
+      "id": "pro/131",
+      "name": "谷川浩司",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/233",
+      "name": "阿久津主税",
+      "result": "lose"
+    },
+    "note": "中継 http://live.shogi.or.jp/asahi/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 本戦",
+    "beginDate": "2009/12/24",
+    "endDate": "2009/12/24",
+    "firstPlayer": {
+      "id": "pro/183",
+      "name": "森内俊之",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/189",
+      "name": "屋敷伸之",
+      "result": "lose"
+    },
+    "note": "中継 http://live.shogi.or.jp/asahi/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 本戦",
+    "beginDate": "2009/12/24",
+    "endDate": "2009/12/24",
+    "firstPlayer": {
+      "id": "pro/131",
+      "name": "谷川浩司",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/183",
+      "name": "森内俊之",
+      "result": "lose"
+    },
+    "note": "中継 http://live.shogi.or.jp/asahi/"
+  },
+  {
+    "matchName": "女流王位戦 挑決リーグ",
+    "beginDate": "2009/12/24",
+    "endDate": "2009/12/24",
+    "firstPlayer": {
+      "id": "lady/21",
+      "name": "甲斐智美",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/26",
+      "name": "上田初美",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "銀河戦 Aブロック",
+    "beginDate": "2009/12/24",
+    "endDate": "2009/12/24",
+    "firstPlayer": {
+      "id": "pro/246",
+      "name": "横山泰明",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/181",
+      "name": "櫛田陽一",
+      "result": "unknown"
+    },
+    "note": "詳細情報 https://www.shogi.or.jp/match/ginga/"
+  },
+  {
+    "matchName": "竜王戦2組",
+    "beginDate": "2009/12/25",
+    "endDate": "2009/12/25",
+    "firstPlayer": {
+      "id": "pro/184",
+      "name": "中川大輔",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/208",
+      "name": "行方尚史",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王座戦 二次予選",
+    "beginDate": "2009/12/25",
+    "endDate": "2009/12/25",
+    "firstPlayer": {
+      "id": "pro/213",
+      "name": "鈴木大介",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/204",
+      "name": "三浦弘行",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 本戦",
+    "beginDate": "2009/12/25",
+    "endDate": "2009/12/25",
+    "firstPlayer": {
+      "id": "pro/194",
+      "name": "丸山忠久",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/201",
+      "name": "深浦康市",
+      "result": "win"
+    },
+    "note": "中継 http://live.shogi.or.jp/asahi/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 本戦・千日手",
+    "beginDate": "2009/12/25",
+    "endDate": "2009/12/25",
+    "firstPlayer": {
+      "id": "pro/222",
+      "name": "木村一基",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/250",
+      "name": "佐藤和俊",
+      "result": "win"
+    },
+    "note": "中継 http://live.shogi.or.jp/asahi/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 本戦",
+    "beginDate": "2009/12/25",
+    "endDate": "2009/12/25",
+    "firstPlayer": {
+      "id": "pro/201",
+      "name": "深浦康市",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/250",
+      "name": "佐藤和俊",
+      "result": "win"
+    },
+    "note": "中継 http://live.shogi.or.jp/asahi/"
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/26",
+    "endDate": "2009/12/26",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "秋山太郎アマ",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/276",
+      "name": "永瀬拓矢",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/26",
+    "endDate": "2009/12/26",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "竹内俊弘アマ",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/277",
+      "name": "阿部健治郎",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦6組",
+    "beginDate": "2009/12/26",
+    "endDate": "2009/12/26",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "早咲誠和アマ",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/274",
+      "name": "澤田真吾",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "銀河戦 Ｂブロック",
+    "beginDate": "2009/12/26",
+    "endDate": "2009/12/26",
+    "firstPlayer": {
+      "id": "pro/275",
+      "name": "大石直嗣",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/212",
+      "name": "矢倉規広",
+      "result": "unknown"
+    },
+    "note": "詳細情報 https://www.shogi.or.jp/match/ginga/"
+  },
+  {
+    "matchName": "女流最強戦",
+    "beginDate": "2009/12/27",
+    "endDate": "2009/12/27",
+    "firstPlayer": {
+      "id": "lady/16",
+      "name": "矢内理絵子",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/39",
+      "name": "山口恵梨子",
+      "result": "lose"
+    },
+    "note": "中継 http://www.daiwashogi.net/"
+  },
+  {
+    "matchName": "NHK杯",
+    "beginDate": "2009/12/27",
+    "endDate": "2009/12/27",
+    "firstPlayer": {
+      "id": "pro/204",
+      "name": "三浦弘行",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/182",
+      "name": "佐藤康光",
+      "result": "unknown"
+    },
+    "note": "詳細情報 https://www.shogi.or.jp/match/nhk/"
+  },
+  {
+    "matchName": "銀河戦 Cブロック",
+    "beginDate": "2009/12/31",
+    "endDate": "2009/12/31",
+    "firstPlayer": {
+      "id": "pro/250",
+      "name": "佐藤和俊",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/269",
+      "name": "稲葉陽",
+      "result": "unknown"
+    },
+    "note": "詳細情報 https://www.shogi.or.jp/match/ginga/"
+  }
+]

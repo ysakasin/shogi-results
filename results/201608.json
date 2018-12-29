@@ -1,0 +1,4735 @@
+[
+  {
+    "matchName": "棋聖戦 第5局",
+    "beginDate": "2016/08/01",
+    "endDate": "2016/08/01",
+    "firstPlayer": {
+      "id": "pro/276",
+      "name": "永瀬拓矢",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/175",
+      "name": "羽生善治",
+      "result": "win"
+    },
+    "note": "中継・携帯中継 http://live.shogi.or.jp/kisei/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/01",
+    "endDate": "2016/08/01",
+    "firstPlayer": {
+      "id": "pro/258",
+      "name": "遠山雄亮",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/144",
+      "name": "泉正樹",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/01",
+    "endDate": "2016/08/01",
+    "firstPlayer": {
+      "id": "pro/301",
+      "name": "梶浦宏孝",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/240",
+      "name": "佐々木慎",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/01",
+    "endDate": "2016/08/01",
+    "firstPlayer": {
+      "id": "pro/258",
+      "name": "遠山雄亮",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/301",
+      "name": "梶浦宏孝",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/01",
+    "endDate": "2016/08/01",
+    "firstPlayer": {
+      "id": "pro/295",
+      "name": "星野良生",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/135",
+      "name": "福崎文吾",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/01",
+    "endDate": "2016/08/01",
+    "firstPlayer": {
+      "id": "pro/162",
+      "name": "浦野真彦",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/267",
+      "name": "村田顕弘",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "女流王座戦 本戦",
+    "beginDate": "2016/08/02",
+    "endDate": "2016/08/02",
+    "firstPlayer": {
+      "id": "lady/53",
+      "name": "中澤沙耶",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/40",
+      "name": "香川愛生",
+      "result": "win"
+    },
+    "note": "中継・携帯中継 http://live.shogi.or.jp/joryu_ouza/"
+  },
+  {
+    "matchName": "女流王座戦 本戦",
+    "beginDate": "2016/08/02",
+    "endDate": "2016/08/02",
+    "firstPlayer": {
+      "id": "lady/52",
+      "name": "伊藤沙恵",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "室谷由紀",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://live.shogi.or.jp/joryu_ouza/"
+  },
+  {
+    "matchName": "銀河戦 Gブロック",
+    "beginDate": "2016/08/02",
+    "endDate": "2016/08/02",
+    "firstPlayer": {
+      "id": "pro/204",
+      "name": "三浦弘行",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/195",
+      "name": "郷田真隆",
+      "result": "unknown"
+    },
+    "note": "詳細情報 https://www.shogi.or.jp/match/ginga/"
+  },
+  {
+    "matchName": "竜王戦2組 昇決",
+    "beginDate": "2016/08/03",
+    "endDate": "2016/08/03",
+    "firstPlayer": {
+      "id": "pro/255",
+      "name": "広瀬章人",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/250",
+      "name": "佐藤和俊",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/03",
+    "endDate": "2016/08/03",
+    "firstPlayer": {
+      "id": "pro/278",
+      "name": "菅井竜也",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/203",
+      "name": "飯塚祐紀",
+      "result": "win"
+    },
+    "note": "棋譜(外部リンク) http://www.eiou.jp/kifu_player/20160803-1.html"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/03",
+    "endDate": "2016/08/03",
+    "firstPlayer": {
+      "id": "pro/267",
+      "name": "村田顕弘",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/291",
+      "name": "千田翔太",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/03",
+    "endDate": "2016/08/03",
+    "firstPlayer": {
+      "id": "pro/300",
+      "name": "青嶋未来",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/281",
+      "name": "船江恒平",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/03",
+    "endDate": "2016/08/03",
+    "firstPlayer": {
+      "id": "pro/291",
+      "name": "千田翔太",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/300",
+      "name": "青嶋未来",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/03",
+    "endDate": "2016/08/03",
+    "firstPlayer": {
+      "id": "pro/230",
+      "name": "中尾敏之",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/187",
+      "name": "木下浩一",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/03",
+    "endDate": "2016/08/03",
+    "firstPlayer": {
+      "id": "pro/146",
+      "name": "島朗",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/230",
+      "name": "中尾敏之",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/03",
+    "endDate": "2016/08/03",
+    "firstPlayer": {
+      "id": "pro/185",
+      "name": "先崎学",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "多々納守アマ",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://live.shogi.or.jp/asahi/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/03",
+    "endDate": "2016/08/03",
+    "firstPlayer": {
+      "id": "pro/289",
+      "name": "石田直裕",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/185",
+      "name": "先崎学",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://live.shogi.or.jp/asahi/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/03",
+    "endDate": "2016/08/03",
+    "firstPlayer": {
+      "id": "pro/205",
+      "name": "伊藤能",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/167",
+      "name": "小林宏",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/03",
+    "endDate": "2016/08/03",
+    "firstPlayer": {
+      "id": "pro/221",
+      "name": "野月浩貴",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/205",
+      "name": "伊藤能",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/03",
+    "endDate": "2016/08/03",
+    "firstPlayer": {
+      "id": "pro/277",
+      "name": "阿部健治郎",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/191",
+      "name": "高田尚平",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/03",
+    "endDate": "2016/08/03",
+    "firstPlayer": {
+      "id": "pro/261",
+      "name": "中村太地",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/283",
+      "name": "阿部光瑠",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/03",
+    "endDate": "2016/08/03",
+    "firstPlayer": {
+      "id": "pro/259",
+      "name": "瀬川晶司",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/287",
+      "name": "八代弥",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/03",
+    "endDate": "2016/08/03",
+    "firstPlayer": {
+      "id": "pro/212",
+      "name": "矢倉規広",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/234",
+      "name": "安用寺孝功",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦3組 昇決",
+    "beginDate": "2016/08/04",
+    "endDate": "2016/08/04",
+    "firstPlayer": {
+      "id": "pro/224",
+      "name": "佐藤紳哉",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/223",
+      "name": "小林裕士",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "順位戦B級1組",
+    "beginDate": "2016/08/04",
+    "endDate": "2016/08/04",
+    "firstPlayer": {
+      "id": "pro/195",
+      "name": "郷田真隆",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/231",
+      "name": "松尾歩",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級1組",
+    "beginDate": "2016/08/04",
+    "endDate": "2016/08/04",
+    "firstPlayer": {
+      "id": "pro/207",
+      "name": "久保利明",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/222",
+      "name": "木村一基",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報・携帯中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級1組",
+    "beginDate": "2016/08/04",
+    "endDate": "2016/08/04",
+    "firstPlayer": {
+      "id": "pro/260",
+      "name": "糸谷哲郎",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/239",
+      "name": "橋本崇載",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級1組",
+    "beginDate": "2016/08/04",
+    "endDate": "2016/08/04",
+    "firstPlayer": {
+      "id": "pro/233",
+      "name": "阿久津主税",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/264",
+      "name": "豊島将之",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報・携帯中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級1組",
+    "beginDate": "2016/08/04",
+    "endDate": "2016/08/04",
+    "firstPlayer": {
+      "id": "pro/194",
+      "name": "丸山忠久",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/192",
+      "name": "畠山鎮",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級1組",
+    "beginDate": "2016/08/04",
+    "endDate": "2016/08/04",
+    "firstPlayer": {
+      "id": "pro/227",
+      "name": "山崎隆之",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/236",
+      "name": "飯島栄治",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "王将戦 二次予選",
+    "beginDate": "2016/08/04",
+    "endDate": "2016/08/04",
+    "firstPlayer": {
+      "id": "pro/269",
+      "name": "稲葉陽",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/263",
+      "name": "佐藤天彦",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/04",
+    "endDate": "2016/08/04",
+    "firstPlayer": {
+      "id": "pro/279",
+      "name": "牧野光則",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/178",
+      "name": "長沼洋",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "加古川青流戦",
+    "beginDate": "2016/08/04",
+    "endDate": "2016/08/04",
+    "firstPlayer": {
+      "id": "pro/298",
+      "name": "黒沢怜生",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/303",
+      "name": "近藤誠也",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "加古川青流戦",
+    "beginDate": "2016/08/04",
+    "endDate": "2016/08/04",
+    "firstPlayer": {
+      "id": "pro/294",
+      "name": "三枚堂達也",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/303",
+      "name": "近藤誠也",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "加古川青流戦",
+    "beginDate": "2016/08/04",
+    "endDate": "2016/08/04",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "遠藤正樹アマ",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/305",
+      "name": "井出隼平",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "女流名人戦 挑決リーグ",
+    "beginDate": "2016/08/04",
+    "endDate": "2016/08/04",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "室谷由紀",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "中井広恵＊",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "銀河戦 Hブロック",
+    "beginDate": "2016/08/04",
+    "endDate": "2016/08/04",
+    "firstPlayer": {
+      "id": "pro/263",
+      "name": "佐藤天彦",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/235",
+      "name": "渡辺明",
+      "result": "unknown"
+    },
+    "note": "詳細情報 https://www.shogi.or.jp/match/ginga/"
+  },
+  {
+    "matchName": "竜王戦3組 昇決",
+    "beginDate": "2016/08/05",
+    "endDate": "2016/08/05",
+    "firstPlayer": {
+      "id": "pro/213",
+      "name": "鈴木大介",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/161",
+      "name": "森下卓",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/05",
+    "endDate": "2016/08/05",
+    "firstPlayer": {
+      "id": "pro/144",
+      "name": "泉正樹",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/219",
+      "name": "中座真",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/05",
+    "endDate": "2016/08/05",
+    "firstPlayer": {
+      "id": "pro/209",
+      "name": "岡崎洋",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/288",
+      "name": "上村亘",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/05",
+    "endDate": "2016/08/05",
+    "firstPlayer": {
+      "id": "pro/219",
+      "name": "中座真",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/288",
+      "name": "上村亘",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/05",
+    "endDate": "2016/08/05",
+    "firstPlayer": {
+      "id": "pro/246",
+      "name": "横山泰明",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/276",
+      "name": "永瀬拓矢",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/05",
+    "endDate": "2016/08/05",
+    "firstPlayer": {
+      "id": "pro/138",
+      "name": "脇謙二",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/254",
+      "name": "阪口悟",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/05",
+    "endDate": "2016/08/05",
+    "firstPlayer": {
+      "id": "pro/190",
+      "name": "藤原直哉",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/151",
+      "name": "西川慶二",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/05",
+    "endDate": "2016/08/05",
+    "firstPlayer": {
+      "id": "pro/193",
+      "name": "畠山成幸",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/190",
+      "name": "藤原直哉",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "新人王戦",
+    "beginDate": "2016/08/05",
+    "endDate": "2016/08/05",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "西田拓也三段",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/297",
+      "name": "増田康宏",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "加古川青流戦",
+    "beginDate": "2016/08/05",
+    "endDate": "2016/08/05",
+    "firstPlayer": {
+      "id": "pro/301",
+      "name": "梶浦宏孝",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "谷合廣紀三段",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "加古川青流戦",
+    "beginDate": "2016/08/05",
+    "endDate": "2016/08/05",
+    "firstPlayer": {
+      "id": "pro/289",
+      "name": "石田直裕",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/306",
+      "name": "佐々木大地",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "加古川青流戦",
+    "beginDate": "2016/08/05",
+    "endDate": "2016/08/05",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "谷合廣紀三段",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/289",
+      "name": "石田直裕",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "加古川青流戦",
+    "beginDate": "2016/08/05",
+    "endDate": "2016/08/05",
+    "firstPlayer": {
+      "id": "pro/290",
+      "name": "渡辺大夢",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/293",
+      "name": "石井健太郎",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "加古川青流戦",
+    "beginDate": "2016/08/05",
+    "endDate": "2016/08/05",
+    "firstPlayer": {
+      "id": "pro/290",
+      "name": "渡辺大夢",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "関矢寛之三段",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/06",
+    "endDate": "2016/08/06",
+    "firstPlayer": {
+      "id": "pro/210",
+      "name": "窪田義行",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/237",
+      "name": "千葉幸生",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/06",
+    "endDate": "2016/08/06",
+    "firstPlayer": {
+      "id": "pro/228",
+      "name": "伊奈祐介",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/261",
+      "name": "中村太地",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/06",
+    "endDate": "2016/08/06",
+    "firstPlayer": {
+      "id": "pro/237",
+      "name": "千葉幸生",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/261",
+      "name": "中村太地",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "女流王将戦 本戦",
+    "beginDate": "2016/08/06",
+    "endDate": "2016/08/06",
+    "firstPlayer": {
+      "id": "lady/30",
+      "name": "中村真梨花",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "lady/40",
+      "name": "香川愛生",
+      "result": "unknown"
+    },
+    "note": "詳細情報 http://www.shogi.or.jp/kisen/jo-oushou/index.html"
+  },
+  {
+    "matchName": "NHK杯",
+    "beginDate": "2016/08/07",
+    "endDate": "2016/08/07",
+    "firstPlayer": {
+      "id": "pro/233",
+      "name": "阿久津主税",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/175",
+      "name": "羽生善治",
+      "result": "unknown"
+    },
+    "note": "詳細情報 http://www.shogi.or.jp/match/nhk/"
+  },
+  {
+    "matchName": "竜王戦4組 昇決",
+    "beginDate": "2016/08/08",
+    "endDate": "2016/08/08",
+    "firstPlayer": {
+      "id": "pro/275",
+      "name": "大石直嗣",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/240",
+      "name": "佐々木慎",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王将戦 二次予選",
+    "beginDate": "2016/08/08",
+    "endDate": "2016/08/08",
+    "firstPlayer": {
+      "id": "pro/264",
+      "name": "豊島将之",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/272",
+      "name": "西川和宏",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/08",
+    "endDate": "2016/08/08",
+    "firstPlayer": {
+      "id": "pro/248",
+      "name": "西尾明",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/218",
+      "name": "堀口一史座",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/08",
+    "endDate": "2016/08/08",
+    "firstPlayer": {
+      "id": "pro/277",
+      "name": "阿部健治郎",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/218",
+      "name": "堀口一史座",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/08",
+    "endDate": "2016/08/08",
+    "firstPlayer": {
+      "id": "pro/287",
+      "name": "八代弥",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/279",
+      "name": "牧野光則",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/08",
+    "endDate": "2016/08/08",
+    "firstPlayer": {
+      "id": "pro/296",
+      "name": "宮本広志",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/280",
+      "name": "佐々木勇気",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/08",
+    "endDate": "2016/08/08",
+    "firstPlayer": {
+      "id": "pro/280",
+      "name": "佐々木勇気",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/287",
+      "name": "八代弥",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/08",
+    "endDate": "2016/08/08",
+    "firstPlayer": {
+      "id": "pro/176",
+      "name": "中田功",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/199",
+      "name": "平藤真吾",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "棋王戦 挑決トーナメント",
+    "beginDate": "2016/08/09",
+    "endDate": "2016/08/09",
+    "firstPlayer": {
+      "id": "pro/189",
+      "name": "屋敷伸之",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/269",
+      "name": "稲葉陽",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/09",
+    "endDate": "2016/08/09",
+    "firstPlayer": {
+      "id": "pro/245",
+      "name": "藤倉勇樹",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/205",
+      "name": "伊藤能",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/09",
+    "endDate": "2016/08/09",
+    "firstPlayer": {
+      "id": "pro/206",
+      "name": "川上猛",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/305",
+      "name": "井出隼平",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/09",
+    "endDate": "2016/08/09",
+    "firstPlayer": {
+      "id": "pro/206",
+      "name": "川上猛",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/245",
+      "name": "藤倉勇樹",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/09",
+    "endDate": "2016/08/09",
+    "firstPlayer": {
+      "id": "pro/271",
+      "name": "佐藤慎一",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/220",
+      "name": "近藤正和",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/09",
+    "endDate": "2016/08/09",
+    "firstPlayer": {
+      "id": "pro/285",
+      "name": "藤森哲也",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/250",
+      "name": "佐藤和俊",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/09",
+    "endDate": "2016/08/09",
+    "firstPlayer": {
+      "id": "pro/271",
+      "name": "佐藤慎一",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/250",
+      "name": "佐藤和俊",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/09",
+    "endDate": "2016/08/09",
+    "firstPlayer": {
+      "id": "pro/198",
+      "name": "藤井猛",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/131",
+      "name": "谷川浩司",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/09",
+    "endDate": "2016/08/09",
+    "firstPlayer": {
+      "id": "pro/207",
+      "name": "久保利明",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/198",
+      "name": "藤井猛",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/09",
+    "endDate": "2016/08/09",
+    "firstPlayer": {
+      "id": "lady/52",
+      "name": "伊藤沙恵",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/172",
+      "name": "所司和晴",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/09",
+    "endDate": "2016/08/09",
+    "firstPlayer": {
+      "id": "pro/184",
+      "name": "中川大輔",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/52",
+      "name": "伊藤沙恵",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/09",
+    "endDate": "2016/08/09",
+    "firstPlayer": {
+      "id": "pro/197",
+      "name": "杉本昌隆",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/291",
+      "name": "千田翔太",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "倉敷藤花",
+    "beginDate": "2016/08/09",
+    "endDate": "2016/08/09",
+    "firstPlayer": {
+      "id": "lady/26",
+      "name": "上田初美",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/40",
+      "name": "香川愛生",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "銀河戦 決勝トーナメント",
+    "beginDate": "2016/08/09",
+    "endDate": "2016/08/09",
+    "firstPlayer": {
+      "id": "pro/281",
+      "name": "船江恒平",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/198",
+      "name": "藤井猛",
+      "result": "unknown"
+    },
+    "note": "詳細情報 http://www.shogi.or.jp/kisen/ginga/index.html"
+  },
+  {
+    "matchName": "王位戦 第3局",
+    "beginDate": "2016/08/09",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "pro/175",
+      "name": "羽生善治",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/222",
+      "name": "木村一基",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://live.shogi.or.jp/oui/"
+  },
+  {
+    "matchName": "竜王戦4組 昇決",
+    "beginDate": "2016/08/10",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "pro/218",
+      "name": "堀口一史座",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/143",
+      "name": "中村修",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/10",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "pro/151",
+      "name": "西川慶二",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/166",
+      "name": "伊藤博文",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/10",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "pro/126",
+      "name": "森信雄",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/242",
+      "name": "村田智弘",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王座戦 一次予選",
+    "beginDate": "2016/08/10",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "pro/246",
+      "name": "横山泰明",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/256",
+      "name": "長岡裕也",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "棋王戦 挑決トーナメント",
+    "beginDate": "2016/08/10",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "pro/204",
+      "name": "三浦弘行",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/192",
+      "name": "畠山鎮",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "棋王戦 挑決トーナメント",
+    "beginDate": "2016/08/10",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "pro/278",
+      "name": "菅井竜也",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/239",
+      "name": "橋本崇載",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "棋王戦 挑決トーナメント",
+    "beginDate": "2016/08/10",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "pro/227",
+      "name": "山崎隆之",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/293",
+      "name": "石井健太郎",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "王将戦 二次予選",
+    "beginDate": "2016/08/10",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "pro/302",
+      "name": "高野智史",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/300",
+      "name": "青嶋未来",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/10",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "pro/306",
+      "name": "佐々木大地",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/226",
+      "name": "高野秀行",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/10",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "pro/154",
+      "name": "堀口弘治",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/224",
+      "name": "佐藤紳哉",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/10",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "pro/224",
+      "name": "佐藤紳哉",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/306",
+      "name": "佐々木大地",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/10",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "pro/164",
+      "name": "日浦市郎",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/173",
+      "name": "中田宏樹",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/10",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "pro/162",
+      "name": "浦野真彦",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/263",
+      "name": "佐藤天彦",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/10",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "pro/173",
+      "name": "中田宏樹",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/263",
+      "name": "佐藤天彦",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/10",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "pro/64",
+      "name": "加藤一二三",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/265",
+      "name": "金井恒太",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "女流王座戦 本戦",
+    "beginDate": "2016/08/10",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "lady/33",
+      "name": "里見香奈",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/31",
+      "name": "貞升南",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://live.shogi.or.jp/joryu_ouza/"
+  },
+  {
+    "matchName": "女流王座戦 本戦",
+    "beginDate": "2016/08/10",
+    "endDate": "2016/08/10",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "西山朋佳三段",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/35",
+      "name": "室田伊緒",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://live.shogi.or.jp/joryu_ouza/"
+  },
+  {
+    "matchName": "銀河戦 決勝トーナメント",
+    "beginDate": "2016/08/11",
+    "endDate": "2016/08/11",
+    "firstPlayer": {
+      "id": "pro/195",
+      "name": "郷田真隆",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/301",
+      "name": "梶浦宏孝",
+      "result": "unknown"
+    },
+    "note": "詳細情報 http://www.shogi.or.jp/kisen/ginga/index.html"
+  },
+  {
+    "matchName": "竜王戦4組 昇決",
+    "beginDate": "2016/08/12",
+    "endDate": "2016/08/12",
+    "firstPlayer": {
+      "id": "pro/272",
+      "name": "西川和宏",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/212",
+      "name": "矢倉規広",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "竜王戦6組 昇決",
+    "beginDate": "2016/08/12",
+    "endDate": "2016/08/12",
+    "firstPlayer": {
+      "id": "pro/279",
+      "name": "牧野光則",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/301",
+      "name": "梶浦宏孝",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/12",
+    "endDate": "2016/08/12",
+    "firstPlayer": {
+      "id": "pro/284",
+      "name": "高見泰地",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/124",
+      "name": "土佐浩司",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/12",
+    "endDate": "2016/08/12",
+    "firstPlayer": {
+      "id": "pro/303",
+      "name": "近藤誠也",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/177",
+      "name": "石川陽生",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "棋王戦 挑決トーナメント",
+    "beginDate": "2016/08/12",
+    "endDate": "2016/08/12",
+    "firstPlayer": {
+      "id": "pro/233",
+      "name": "阿久津主税",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/207",
+      "name": "久保利明",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "王将戦 二次予選",
+    "beginDate": "2016/08/12",
+    "endDate": "2016/08/12",
+    "firstPlayer": {
+      "id": "pro/214",
+      "name": "北島忠雄",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/262",
+      "name": "戸辺誠",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/12",
+    "endDate": "2016/08/12",
+    "firstPlayer": {
+      "id": "pro/273",
+      "name": "渡辺正和",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/110",
+      "name": "宮田利男",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/12",
+    "endDate": "2016/08/12",
+    "firstPlayer": {
+      "id": "pro/243",
+      "name": "大平武洋",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/202",
+      "name": "真田圭一",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/12",
+    "endDate": "2016/08/12",
+    "firstPlayer": {
+      "id": "pro/202",
+      "name": "真田圭一",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/273",
+      "name": "渡辺正和",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/12",
+    "endDate": "2016/08/12",
+    "firstPlayer": {
+      "id": "pro/253",
+      "name": "村中秀史",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/298",
+      "name": "黒沢怜生",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/12",
+    "endDate": "2016/08/12",
+    "firstPlayer": {
+      "id": "pro/297",
+      "name": "増田康宏",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/253",
+      "name": "村中秀史",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/12",
+    "endDate": "2016/08/12",
+    "firstPlayer": {
+      "id": "pro/190",
+      "name": "藤原直哉",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/196",
+      "name": "佐藤秀司",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/12",
+    "endDate": "2016/08/12",
+    "firstPlayer": {
+      "id": "pro/264",
+      "name": "豊島将之",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/219",
+      "name": "中座真",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/12",
+    "endDate": "2016/08/12",
+    "firstPlayer": {
+      "id": "pro/264",
+      "name": "豊島将之",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/190",
+      "name": "藤原直哉",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "新人王戦",
+    "beginDate": "2016/08/12",
+    "endDate": "2016/08/12",
+    "firstPlayer": {
+      "id": "pro/287",
+      "name": "八代弥",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/294",
+      "name": "三枚堂達也",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/31",
+      "name": "貞升南",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "熊倉紫野",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "小高佐季子アマ",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/41",
+      "name": "渡辺弥生",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://mynavi-open.jp/"
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "小高佐季子アマ",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/31",
+      "name": "貞升南",
+      "result": "win"
+    },
+    "note": "中継・携帯中継 http://mynavi-open.jp/"
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/28",
+      "name": "村田智穂",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/48",
+      "name": "飯野愛",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "平野真子アマ",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "中倉宏美※",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "中倉宏美※",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/28",
+      "name": "村田智穂",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/33",
+      "name": "里見香奈",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/16",
+      "name": "矢内理絵子",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://mynavi-open.jp/"
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/54",
+      "name": "高浜愛子",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/10",
+      "name": "石高澄恵",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/54",
+      "name": "高浜愛子",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/33",
+      "name": "里見香奈",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/32",
+      "name": "岩根忍",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/55",
+      "name": "山口絵美菜",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/53",
+      "name": "中澤沙耶",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "礒谷真帆アマ",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/53",
+      "name": "中澤沙耶",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/55",
+      "name": "山口絵美菜",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "頼本奈菜アマ",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/9",
+      "name": "斎田晴子",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/35",
+      "name": "室田伊緒",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/60",
+      "name": "武富礼衣",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://mynavi-open.jp/"
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "頼本奈菜アマ",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/35",
+      "name": "室田伊緒",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://mynavi-open.jp/"
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/52",
+      "name": "伊藤沙恵",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/39",
+      "name": "山口恵梨子",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/49",
+      "name": "山根ことみ",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "水町みゆアマ",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://mynavi-open.jp/"
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/49",
+      "name": "山根ことみ",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/52",
+      "name": "伊藤沙恵",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "堀彩乃アマ",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "中井広恵＊",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://mynavi-open.jp/"
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/38",
+      "name": "中村桃子",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/26",
+      "name": "上田初美",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "堀彩乃アマ",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/26",
+      "name": "上田初美",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/21",
+      "name": "甲斐智美",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/22",
+      "name": "安食総子",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/17",
+      "name": "千葉涼子",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/44",
+      "name": "長谷川優貴",
+      "result": "win"
+    },
+    "note": "中継・携帯中継 http://mynavi-open.jp/"
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/44",
+      "name": "長谷川優貴",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/21",
+      "name": "甲斐智美",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/30",
+      "name": "中村真梨花",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/29",
+      "name": "鈴木環那",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/56",
+      "name": "里見咲紀",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/34",
+      "name": "井道千尋",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://mynavi-open.jp/"
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/30",
+      "name": "中村真梨花",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/56",
+      "name": "里見咲紀",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://mynavi-open.jp/"
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/5",
+      "name": "長沢千和子",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/23",
+      "name": "藤田綾",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/51",
+      "name": "塚田恵梨花",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/50",
+      "name": "和田あき",
+      "result": "win"
+    },
+    "note": "中継・携帯中継 http://mynavi-open.jp/"
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/23",
+      "name": "藤田綾",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/50",
+      "name": "和田あき",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/59",
+      "name": "カロリーナステチェンスカ",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "島井咲緒里※",
+      "result": "win"
+    },
+    "note": "中継・携帯中継 http://mynavi-open.jp/"
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "迎琉歌6級",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/46",
+      "name": "北村桂香",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "lady/46",
+      "name": "北村桂香",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "島井咲緒里※",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "中谷純子アマ",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/43",
+      "name": "北尾まどか",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "渡部愛※",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/47",
+      "name": "相川春香",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "マイナビ女子オープン 予選",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "渡部愛※",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/43",
+      "name": "北尾まどか",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "女流王将戦 本戦",
+    "beginDate": "2016/08/13",
+    "endDate": "2016/08/13",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "渡部愛※",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "lady/28",
+      "name": "村田智穂",
+      "result": "unknown"
+    },
+    "note": "詳細情報 http://www.shogi.or.jp/kisen/jo-oushou/index.html"
+  },
+  {
+    "matchName": "NHK杯",
+    "beginDate": "2016/08/14",
+    "endDate": "2016/08/14",
+    "firstPlayer": {
+      "id": "pro/286",
+      "name": "斎藤慎太郎",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/183",
+      "name": "森内俊之",
+      "result": "unknown"
+    },
+    "note": "詳細情報 http://www.shogi.or.jp/match/nhk/"
+  },
+  {
+    "matchName": "竜王戦 挑決第1局",
+    "beginDate": "2016/08/15",
+    "endDate": "2016/08/15",
+    "firstPlayer": {
+      "id": "pro/194",
+      "name": "丸山忠久",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/204",
+      "name": "三浦弘行",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://live.shogi.or.jp/ryuou/"
+  },
+  {
+    "matchName": "竜王戦5組 昇決",
+    "beginDate": "2016/08/15",
+    "endDate": "2016/08/15",
+    "firstPlayer": {
+      "id": "pro/271",
+      "name": "佐藤慎一",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/290",
+      "name": "渡辺大夢",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "竜王戦6組 昇決",
+    "beginDate": "2016/08/15",
+    "endDate": "2016/08/15",
+    "firstPlayer": {
+      "id": "pro/64",
+      "name": "加藤一二三",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/188",
+      "name": "小倉久史",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/15",
+    "endDate": "2016/08/15",
+    "firstPlayer": {
+      "id": "pro/144",
+      "name": "泉正樹",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/168",
+      "name": "富岡英作",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/15",
+    "endDate": "2016/08/15",
+    "firstPlayer": {
+      "id": "pro/206",
+      "name": "川上猛",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/153",
+      "name": "室岡克彦",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/15",
+    "endDate": "2016/08/15",
+    "firstPlayer": {
+      "id": "pro/306",
+      "name": "佐々木大地",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/266",
+      "name": "伊藤真吾",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/15",
+    "endDate": "2016/08/15",
+    "firstPlayer": {
+      "id": "pro/229",
+      "name": "山本真也",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/295",
+      "name": "星野良生",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王将戦 二次予選",
+    "beginDate": "2016/08/15",
+    "endDate": "2016/08/15",
+    "firstPlayer": {
+      "id": "pro/280",
+      "name": "佐々木勇気",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/246",
+      "name": "横山泰明",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/15",
+    "endDate": "2016/08/15",
+    "firstPlayer": {
+      "id": "pro/268",
+      "name": "及川拓馬",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/248",
+      "name": "西尾明",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/15",
+    "endDate": "2016/08/15",
+    "firstPlayer": {
+      "id": "pro/250",
+      "name": "佐藤和俊",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/286",
+      "name": "斎藤慎太郎",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/15",
+    "endDate": "2016/08/15",
+    "firstPlayer": {
+      "id": "pro/250",
+      "name": "佐藤和俊",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/268",
+      "name": "及川拓馬",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/15",
+    "endDate": "2016/08/15",
+    "firstPlayer": {
+      "id": "pro/179",
+      "name": "神崎健二",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/223",
+      "name": "小林裕士",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王座戦 一次予選",
+    "beginDate": "2016/08/16",
+    "endDate": "2016/08/16",
+    "firstPlayer": {
+      "id": "pro/225",
+      "name": "増田裕司",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/299",
+      "name": "今泉健司",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "棋王戦 挑決トーナメント",
+    "beginDate": "2016/08/16",
+    "endDate": "2016/08/16",
+    "firstPlayer": {
+      "id": "pro/291",
+      "name": "千田翔太",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/264",
+      "name": "豊島将之",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "銀河戦 決勝トーナメント",
+    "beginDate": "2016/08/16",
+    "endDate": "2016/08/16",
+    "firstPlayer": {
+      "id": "pro/231",
+      "name": "松尾歩",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/278",
+      "name": "菅井竜也",
+      "result": "unknown"
+    },
+    "note": "詳細情報 http://www.shogi.or.jp/kisen/ginga/index.html"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/17",
+    "endDate": "2016/08/17",
+    "firstPlayer": {
+      "id": "pro/195",
+      "name": "郷田真隆",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/123",
+      "name": "小林健二",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/17",
+    "endDate": "2016/08/17",
+    "firstPlayer": {
+      "id": "pro/114",
+      "name": "青野照市",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/201",
+      "name": "深浦康市",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/17",
+    "endDate": "2016/08/17",
+    "firstPlayer": {
+      "id": "pro/201",
+      "name": "深浦康市",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/195",
+      "name": "郷田真隆",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "王位戦 予選・千日手",
+    "beginDate": "2016/08/18",
+    "endDate": "2016/08/18",
+    "firstPlayer": {
+      "id": "pro/236",
+      "name": "飯島栄治",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/251",
+      "name": "片上大輔",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "新人王戦",
+    "beginDate": "2016/08/18",
+    "endDate": "2016/08/18",
+    "firstPlayer": {
+      "id": "pro/300",
+      "name": "青嶋未来",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/301",
+      "name": "梶浦宏孝",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "銀河戦 決勝トーナメント",
+    "beginDate": "2016/08/18",
+    "endDate": "2016/08/18",
+    "firstPlayer": {
+      "id": "pro/261",
+      "name": "中村太地",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/257",
+      "name": "高崎一生",
+      "result": "unknown"
+    },
+    "note": "詳細情報 http://www.shogi.or.jp/kisen/ginga/index.html"
+  },
+  {
+    "matchName": "竜王戦5組 昇決",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "pro/241",
+      "name": "宮田敦史",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/281",
+      "name": "船江恒平",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "pro/298",
+      "name": "黒沢怜生",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/100",
+      "name": "森けい二",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "pro/173",
+      "name": "中田宏樹",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/148",
+      "name": "塚田泰明",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "pro/185",
+      "name": "先崎学",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/210",
+      "name": "窪田義行",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "pro/305",
+      "name": "井出隼平",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/187",
+      "name": "木下浩一",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "pro/245",
+      "name": "藤倉勇樹",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/302",
+      "name": "高野智史",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "pro/273",
+      "name": "渡辺正和",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/282",
+      "name": "門倉啓太",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "pro/247",
+      "name": "島本亮",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/128",
+      "name": "東和男",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "pro/228",
+      "name": "伊奈祐介",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/304",
+      "name": "都成竜馬",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王座戦 一次予選",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "pro/258",
+      "name": "遠山雄亮",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/196",
+      "name": "佐藤秀司",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王将戦 二次予選",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "pro/303",
+      "name": "近藤誠也",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/211",
+      "name": "北浜健介",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "pro/164",
+      "name": "日浦市郎",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/256",
+      "name": "長岡裕也",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "pro/259",
+      "name": "瀬川晶司",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "室谷由紀",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "pro/256",
+      "name": "長岡裕也",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/259",
+      "name": "瀬川晶司",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "pro/184",
+      "name": "中川大輔",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/138",
+      "name": "脇謙二",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "pro/269",
+      "name": "稲葉陽",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/138",
+      "name": "脇謙二",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "pro/157",
+      "name": "井上慶太",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/40",
+      "name": "香川愛生",
+      "result": "win"
+    },
+    "note": "中継・携帯中継 http://live.shogi.or.jp/asahi/"
+  },
+  {
+    "matchName": "女流名人戦 挑決リーグ",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "中井広恵＊",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/6",
+      "name": "山田久美",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "女流名人戦 挑決リーグ",
+    "beginDate": "2016/08/19",
+    "endDate": "2016/08/19",
+    "firstPlayer": {
+      "id": "lady/26",
+      "name": "上田初美",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/21",
+      "name": "甲斐智美",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "女流王将戦 本戦",
+    "beginDate": "2016/08/20",
+    "endDate": "2016/08/20",
+    "firstPlayer": {
+      "id": "lady/10",
+      "name": "石高澄恵",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "lady/52",
+      "name": "伊藤沙恵",
+      "result": "unknown"
+    },
+    "note": "詳細情報 http://www.shogi.or.jp/kisen/jo-oushou/index.html"
+  },
+  {
+    "matchName": "倉敷藤花",
+    "beginDate": "2016/08/21",
+    "endDate": "2016/08/21",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "室谷由紀",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/32",
+      "name": "岩根忍",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "NHK杯",
+    "beginDate": "2016/08/21",
+    "endDate": "2016/08/21",
+    "firstPlayer": {
+      "id": "pro/293",
+      "name": "石井健太郎",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/131",
+      "name": "谷川浩司",
+      "result": "unknown"
+    },
+    "note": "詳細情報 http://www.shogi.or.jp/match/nhk/"
+  },
+  {
+    "matchName": "王位戦 予選・持将棋",
+    "beginDate": "2016/08/22",
+    "endDate": "2016/08/22",
+    "firstPlayer": {
+      "id": "pro/212",
+      "name": "矢倉規広",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/123",
+      "name": "小林健二",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/22",
+    "endDate": "2016/08/22",
+    "firstPlayer": {
+      "id": "pro/135",
+      "name": "福崎文吾",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/267",
+      "name": "村田顕弘",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王座戦 一次予選",
+    "beginDate": "2016/08/22",
+    "endDate": "2016/08/22",
+    "firstPlayer": {
+      "id": "pro/151",
+      "name": "西川慶二",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/229",
+      "name": "山本真也",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/22",
+    "endDate": "2016/08/22",
+    "firstPlayer": {
+      "id": "pro/281",
+      "name": "船江恒平",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/296",
+      "name": "宮本広志",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "棋聖戦 一次予選",
+    "beginDate": "2016/08/22",
+    "endDate": "2016/08/22",
+    "firstPlayer": {
+      "id": "pro/275",
+      "name": "大石直嗣",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/296",
+      "name": "宮本広志",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "新人王戦",
+    "beginDate": "2016/08/22",
+    "endDate": "2016/08/22",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "池永天志三段",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/289",
+      "name": "石田直裕",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "王位戦 第4局",
+    "beginDate": "2016/08/22",
+    "endDate": "2016/08/23",
+    "firstPlayer": {
+      "id": "pro/222",
+      "name": "木村一基",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/175",
+      "name": "羽生善治",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://live.shogi.or.jp/oui/"
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/23",
+    "endDate": "2016/08/23",
+    "firstPlayer": {
+      "id": "pro/250",
+      "name": "佐藤和俊",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/32",
+      "name": "岩根忍",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王座戦 一次予選",
+    "beginDate": "2016/08/23",
+    "endDate": "2016/08/23",
+    "firstPlayer": {
+      "id": "pro/277",
+      "name": "阿部健治郎",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/253",
+      "name": "村中秀史",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王座戦 一次予選",
+    "beginDate": "2016/08/23",
+    "endDate": "2016/08/23",
+    "firstPlayer": {
+      "id": "pro/273",
+      "name": "渡辺正和",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/268",
+      "name": "及川拓馬",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王将戦 二次予選",
+    "beginDate": "2016/08/23",
+    "endDate": "2016/08/23",
+    "firstPlayer": {
+      "id": "pro/302",
+      "name": "高野智史",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/183",
+      "name": "森内俊之",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王将戦 二次予選",
+    "beginDate": "2016/08/23",
+    "endDate": "2016/08/23",
+    "firstPlayer": {
+      "id": "pro/255",
+      "name": "広瀬章人",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/280",
+      "name": "佐々木勇気",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/23",
+    "endDate": "2016/08/23",
+    "firstPlayer": {
+      "id": "pro/203",
+      "name": "飯塚祐紀",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/197",
+      "name": "杉本昌隆",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/23",
+    "endDate": "2016/08/23",
+    "firstPlayer": {
+      "id": "pro/223",
+      "name": "小林裕士",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/221",
+      "name": "野月浩貴",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/23",
+    "endDate": "2016/08/23",
+    "firstPlayer": {
+      "id": "pro/223",
+      "name": "小林裕士",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/197",
+      "name": "杉本昌隆",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "加古川青流戦",
+    "beginDate": "2016/08/23",
+    "endDate": "2016/08/23",
+    "firstPlayer": {
+      "id": "pro/299",
+      "name": "今泉健司",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/290",
+      "name": "渡辺大夢",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "加古川青流戦",
+    "beginDate": "2016/08/23",
+    "endDate": "2016/08/23",
+    "firstPlayer": {
+      "id": "pro/305",
+      "name": "井出隼平",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/294",
+      "name": "三枚堂達也",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "加古川青流戦",
+    "beginDate": "2016/08/23",
+    "endDate": "2016/08/23",
+    "firstPlayer": {
+      "id": "pro/305",
+      "name": "井出隼平",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/290",
+      "name": "渡辺大夢",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "銀河戦 決勝トーナメント",
+    "beginDate": "2016/08/23",
+    "endDate": "2016/08/23",
+    "firstPlayer": {
+      "id": "pro/235",
+      "name": "渡辺明",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/246",
+      "name": "横山泰明",
+      "result": "unknown"
+    },
+    "note": "詳細情報 http://www.shogi.or.jp/kisen/ginga/index.html"
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/24",
+    "endDate": "2016/08/24",
+    "firstPlayer": {
+      "id": "pro/154",
+      "name": "堀口弘治",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/191",
+      "name": "高田尚平",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/24",
+    "endDate": "2016/08/24",
+    "firstPlayer": {
+      "id": "pro/230",
+      "name": "中尾敏之",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/232",
+      "name": "金沢孝史",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王座戦 一次予選",
+    "beginDate": "2016/08/24",
+    "endDate": "2016/08/24",
+    "firstPlayer": {
+      "id": "pro/251",
+      "name": "片上大輔",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/142",
+      "name": "高橋道雄",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王将戦 二次予選",
+    "beginDate": "2016/08/24",
+    "endDate": "2016/08/24",
+    "firstPlayer": {
+      "id": "pro/264",
+      "name": "豊島将之",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/189",
+      "name": "屋敷伸之",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "女流王座戦 本戦",
+    "beginDate": "2016/08/24",
+    "endDate": "2016/08/24",
+    "firstPlayer": {
+      "id": "lady/52",
+      "name": "伊藤沙恵",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "西山朋佳三段",
+      "result": "win"
+    },
+    "note": "中継・携帯中継 http://live.shogi.or.jp/joryu_ouza/"
+  },
+  {
+    "matchName": "女流名人戦 挑決リーグ",
+    "beginDate": "2016/08/24",
+    "endDate": "2016/08/24",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "室谷由紀",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/39",
+      "name": "山口恵梨子",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "女流王位戦 予選",
+    "beginDate": "2016/08/24",
+    "endDate": "2016/08/24",
+    "firstPlayer": {
+      "id": "lady/35",
+      "name": "室田伊緒",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/50",
+      "name": "和田あき",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "倉敷藤花",
+    "beginDate": "2016/08/24",
+    "endDate": "2016/08/24",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "渡部愛※",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "n/a",
+      "name": "中井広恵＊",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/290",
+      "name": "渡辺大夢",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/149",
+      "name": "神谷広志",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/287",
+      "name": "八代弥",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/64",
+      "name": "加藤一二三",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報・携帯中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/289",
+      "name": "石田直裕",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/256",
+      "name": "長岡裕也",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/209",
+      "name": "岡崎洋",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/284",
+      "name": "高見泰地",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/266",
+      "name": "伊藤真吾",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/242",
+      "name": "村田智弘",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/138",
+      "name": "脇謙二",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/219",
+      "name": "中座真",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/270",
+      "name": "田中悠一",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/247",
+      "name": "島本亮",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/282",
+      "name": "門倉啓太",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/176",
+      "name": "中田功",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報・携帯中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/123",
+      "name": "小林健二",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/258",
+      "name": "遠山雄亮",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/190",
+      "name": "藤原直哉",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/302",
+      "name": "高野智史",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/100",
+      "name": "森けい二",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/162",
+      "name": "浦野真彦",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/295",
+      "name": "星野良生",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/224",
+      "name": "佐藤紳哉",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組 千日手",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/248",
+      "name": "西尾明",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/292",
+      "name": "竹内雄悟",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報・携帯中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/279",
+      "name": "牧野光則",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/124",
+      "name": "土佐浩司",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級2組",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/179",
+      "name": "神崎健二",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/93",
+      "name": "桐山清澄",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/226",
+      "name": "高野秀行",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/143",
+      "name": "中村修",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/272",
+      "name": "西川和宏",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/296",
+      "name": "宮本広志",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王座戦 一次予選",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/212",
+      "name": "矢倉規広",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/178",
+      "name": "長沼洋",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "銀河戦 決勝トーナメント",
+    "beginDate": "2016/08/25",
+    "endDate": "2016/08/25",
+    "firstPlayer": {
+      "id": "pro/255",
+      "name": "広瀬章人",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/206",
+      "name": "川上猛",
+      "result": "unknown"
+    },
+    "note": "詳細情報 http://www.shogi.or.jp/match/ginga/"
+  },
+  {
+    "matchName": "竜王戦 挑決第2局",
+    "beginDate": "2016/08/26",
+    "endDate": "2016/08/26",
+    "firstPlayer": {
+      "id": "pro/204",
+      "name": "三浦弘行",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/194",
+      "name": "丸山忠久",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://live.shogi.or.jp/ryuou/"
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/26",
+    "endDate": "2016/08/26",
+    "firstPlayer": {
+      "id": "pro/215",
+      "name": "勝又清和",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/188",
+      "name": "小倉久史",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王座戦 一次予選",
+    "beginDate": "2016/08/26",
+    "endDate": "2016/08/26",
+    "firstPlayer": {
+      "id": "pro/223",
+      "name": "小林裕士",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/267",
+      "name": "村田顕弘",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/26",
+    "endDate": "2016/08/26",
+    "firstPlayer": {
+      "id": "pro/303",
+      "name": "近藤誠也",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/297",
+      "name": "増田康宏",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/26",
+    "endDate": "2016/08/26",
+    "firstPlayer": {
+      "id": "pro/306",
+      "name": "佐々木大地",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/304",
+      "name": "都成竜馬",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "叡王戦 予選",
+    "beginDate": "2016/08/26",
+    "endDate": "2016/08/26",
+    "firstPlayer": {
+      "id": "pro/297",
+      "name": "増田康宏",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/306",
+      "name": "佐々木大地",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/26",
+    "endDate": "2016/08/26",
+    "firstPlayer": {
+      "id": "pro/126",
+      "name": "森信雄",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/228",
+      "name": "伊奈祐介",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/26",
+    "endDate": "2016/08/26",
+    "firstPlayer": {
+      "id": "pro/131",
+      "name": "谷川浩司",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/228",
+      "name": "伊奈祐介",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/26",
+    "endDate": "2016/08/26",
+    "firstPlayer": {
+      "id": "pro/227",
+      "name": "山崎隆之",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/225",
+      "name": "増田裕司",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "朝日杯将棋オープン戦 一次予選",
+    "beginDate": "2016/08/26",
+    "endDate": "2016/08/26",
+    "firstPlayer": {
+      "id": "pro/296",
+      "name": "宮本広志",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/227",
+      "name": "山崎隆之",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "女流名人戦 挑決リーグ",
+    "beginDate": "2016/08/26",
+    "endDate": "2016/08/26",
+    "firstPlayer": {
+      "id": "lady/30",
+      "name": "中村真梨花",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/7",
+      "name": "清水市代",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "女流王位戦 予選",
+    "beginDate": "2016/08/26",
+    "endDate": "2016/08/26",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "鹿野圭生※",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/49",
+      "name": "山根ことみ",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "女流王座戦 本戦",
+    "beginDate": "2016/08/27",
+    "endDate": "2016/08/27",
+    "firstPlayer": {
+      "id": "lady/33",
+      "name": "里見香奈",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/40",
+      "name": "香川愛生",
+      "result": "lose"
+    },
+    "note": "中継・携帯中継 http://live.shogi.or.jp/joryu_ouza/"
+  },
+  {
+    "matchName": "女流王将戦 本戦",
+    "beginDate": "2016/08/27",
+    "endDate": "2016/08/27",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "加藤桃子",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "lady/17",
+      "name": "千葉涼子",
+      "result": "unknown"
+    },
+    "note": "詳細情報 http://www.shogi.or.jp/kisen/jo-oushou/index.html"
+  },
+  {
+    "matchName": "上州YAMADAチャレンジ杯 準決勝",
+    "beginDate": "2016/08/28",
+    "endDate": "2016/08/28",
+    "firstPlayer": {
+      "id": "pro/281",
+      "name": "船江恒平",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/284",
+      "name": "高見泰地",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "上州YAMADAチャレンジ杯 準決勝",
+    "beginDate": "2016/08/28",
+    "endDate": "2016/08/28",
+    "firstPlayer": {
+      "id": "pro/291",
+      "name": "千田翔太",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/294",
+      "name": "三枚堂達也",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "上州YAMADAチャレンジ杯 決勝",
+    "beginDate": "2016/08/28",
+    "endDate": "2016/08/28",
+    "firstPlayer": {
+      "id": "pro/291",
+      "name": "千田翔太",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/281",
+      "name": "船江恒平",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "女子将棋YAMADAチャレンジ杯 準決勝",
+    "beginDate": "2016/08/28",
+    "endDate": "2016/08/28",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "大庭美樹※",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/31",
+      "name": "貞升南",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "女子将棋YAMADAチャレンジ杯 準決勝",
+    "beginDate": "2016/08/28",
+    "endDate": "2016/08/28",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "渡部愛※",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/53",
+      "name": "中澤沙耶",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "女子将棋YAMADAチャレンジ杯 決勝",
+    "beginDate": "2016/08/28",
+    "endDate": "2016/08/28",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "渡部愛※",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/31",
+      "name": "貞升南",
+      "result": "lose"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "NHK杯",
+    "beginDate": "2016/08/28",
+    "endDate": "2016/08/28",
+    "firstPlayer": {
+      "id": "pro/281",
+      "name": "船江恒平",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/291",
+      "name": "千田翔太",
+      "result": "unknown"
+    },
+    "note": "詳細情報 http://www.shogi.or.jp/match/nhk/"
+  },
+  {
+    "matchName": "順位戦A級",
+    "beginDate": "2016/08/29",
+    "endDate": "2016/08/29",
+    "firstPlayer": {
+      "id": "pro/255",
+      "name": "広瀬章人",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/183",
+      "name": "森内俊之",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報・携帯中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "王将戦 二次予選",
+    "beginDate": "2016/08/29",
+    "endDate": "2016/08/29",
+    "firstPlayer": {
+      "id": "pro/208",
+      "name": "行方尚史",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/303",
+      "name": "近藤誠也",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/146",
+      "name": "島朗",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/144",
+      "name": "泉正樹",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/246",
+      "name": "横山泰明",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/200",
+      "name": "豊川孝弘",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/237",
+      "name": "千葉幸生",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/280",
+      "name": "佐々木勇気",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報・携帯中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/277",
+      "name": "阿部健治郎",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/300",
+      "name": "青嶋未来",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報・携帯中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/257",
+      "name": "高崎一生",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/220",
+      "name": "近藤正和",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/127",
+      "name": "田中寅彦",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/265",
+      "name": "金井恒太",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/276",
+      "name": "永瀬拓矢",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/251",
+      "name": "片上大輔",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/196",
+      "name": "佐藤秀司",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/168",
+      "name": "富岡英作",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/148",
+      "name": "塚田泰明",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/275",
+      "name": "大石直嗣",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/202",
+      "name": "真田圭一",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/199",
+      "name": "平藤真吾",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/226",
+      "name": "高野秀行",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/164",
+      "name": "日浦市郎",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/241",
+      "name": "宮田敦史",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/218",
+      "name": "堀口一史座",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/291",
+      "name": "千田翔太",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/197",
+      "name": "杉本昌隆",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報・携帯中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/142",
+      "name": "高橋道雄",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/234",
+      "name": "安用寺孝功",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/214",
+      "name": "北島忠雄",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/223",
+      "name": "小林裕士",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/254",
+      "name": "阪口悟",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/281",
+      "name": "船江恒平",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/296",
+      "name": "宮本広志",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/267",
+      "name": "村田顕弘",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦C級1組",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/178",
+      "name": "長沼洋",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/147",
+      "name": "南芳一",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/158",
+      "name": "有森浩三",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/93",
+      "name": "桐山清澄",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王座戦 一次予選",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/228",
+      "name": "伊奈祐介",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/190",
+      "name": "藤原直哉",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "女流王位戦 予選",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "lady/60",
+      "name": "武富礼衣",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/51",
+      "name": "塚田恵梨花",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "銀河戦 決勝トーナメント",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/30",
+    "firstPlayer": {
+      "id": "pro/228",
+      "name": "伊奈祐介",
+      "result": "unknown"
+    },
+    "secondPlayer": {
+      "id": "pro/227",
+      "name": "山崎隆之",
+      "result": "unknown"
+    },
+    "note": "詳細情報 http://www.shogi.or.jp/match/ginga/"
+  },
+  {
+    "matchName": "王位戦 第5局",
+    "beginDate": "2016/08/30",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "pro/175",
+      "name": "羽生善治",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/222",
+      "name": "木村一基",
+      "result": "win"
+    },
+    "note": "中継・携帯中継 http://live.shogi.or.jp/oui/"
+  },
+  {
+    "matchName": "順位戦A級",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "pro/235",
+      "name": "渡辺明",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/182",
+      "name": "佐藤康光",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報・携帯中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "pro/261",
+      "name": "中村太地",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/249",
+      "name": "村山慈明",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報・携帯中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "pro/240",
+      "name": "佐々木慎",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/185",
+      "name": "先崎学",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "pro/173",
+      "name": "中田宏樹",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/198",
+      "name": "藤井猛",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "pro/171",
+      "name": "阿部隆",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/221",
+      "name": "野月浩貴",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "pro/262",
+      "name": "戸辺誠",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/210",
+      "name": "窪田義行",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "pro/114",
+      "name": "青野照市",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/217",
+      "name": "田村康介",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "pro/203",
+      "name": "飯塚祐紀",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/278",
+      "name": "菅井竜也",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "pro/274",
+      "name": "澤田真吾",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/184",
+      "name": "中川大輔",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "pro/213",
+      "name": "鈴木大介",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/211",
+      "name": "北浜健介",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "pro/143",
+      "name": "中村修",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/157",
+      "name": "井上慶太",
+      "result": "win"
+    },
+    "note": "名人戦棋譜速報 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "順位戦B級2組",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "pro/286",
+      "name": "斎藤慎太郎",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/193",
+      "name": "畠山成幸",
+      "result": "lose"
+    },
+    "note": "名人戦棋譜速報・携帯中継 http://www.meijinsen.jp/"
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "pro/258",
+      "name": "遠山雄亮",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/110",
+      "name": "宮田利男",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "pro/238",
+      "name": "上野裕和",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/209",
+      "name": "岡崎洋",
+      "result": "win"
+    }
+  },
+  {
+    "matchName": "王位戦 予選",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "pro/176",
+      "name": "中田功",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "pro/225",
+      "name": "増田裕司",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "王座戦 一次予選",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "加藤桃子",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "pro/245",
+      "name": "藤倉勇樹",
+      "result": "win"
+    },
+    "note": "携帯中継 http://www.shogi.or.jp/mobile/"
+  },
+  {
+    "matchName": "女流王位戦 予選",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "中井広恵＊",
+      "result": "win"
+    },
+    "secondPlayer": {
+      "id": "lady/12",
+      "name": "真田彩子",
+      "result": "lose"
+    }
+  },
+  {
+    "matchName": "女流王位戦 予選",
+    "beginDate": "2016/08/31",
+    "endDate": "2016/08/31",
+    "firstPlayer": {
+      "id": "n/a",
+      "name": "中倉宏美※",
+      "result": "lose"
+    },
+    "secondPlayer": {
+      "id": "lady/38",
+      "name": "中村桃子",
+      "result": "win"
+    }
+  }
+]
