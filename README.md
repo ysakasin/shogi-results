@@ -1,6 +1,6 @@
 # shogi-results
 
-Scrape game results which are hold by Japan Shogi Association.
+Scrape game results which are held by Japan Shogi Association.
 
 Scraped data are available at `/results`.
 
@@ -22,5 +22,5 @@ go build
 ### Scrape monthly results
 
 ```sh
-./shogi-result -d 201804
+./shogi-result -m 201804
 ```
