@@ -1,4 +1,4 @@
-# shogi-result
+# shogi-results
 
 Scrape game results which are hold by Japan Shogi Association.
 
